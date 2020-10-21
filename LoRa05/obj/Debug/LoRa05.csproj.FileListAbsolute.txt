@@ -1,0 +1,10 @@
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.csprojAssemblyReference.cache
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.Form1.resources
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.Properties.Resources.resources
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.csproj.GenerateResource.cache
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.csproj.CoreCompileInputs.cache
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\bin\Debug\LoRa05.exe.config
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\bin\Debug\LoRa05.exe
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\bin\Debug\LoRa05.pdb
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.exe
+H:\2020\LoRa\LoRa ver 05\LoRa05\LoRa05\obj\Debug\LoRa05.pdb
